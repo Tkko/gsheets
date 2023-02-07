@@ -12,3 +12,5 @@ doc/api/
 
 # Other
 .idea
+
+test/env.dart
